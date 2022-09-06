@@ -1,0 +1,7 @@
+description: >
+    Provide functions for testing interfaceAdded signal
+properties:
+    - name: MyProperty
+      type: string
+      description: >
+        A property
